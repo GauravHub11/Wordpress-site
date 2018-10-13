@@ -4,6 +4,9 @@ KEC IT CLUB website is made using WordPress(for Practice)
 ![](Screeshots/home.jpg)
 
 ![](Screeshots/team.jpg)
+
+![](Screeshots/phntest.jpg)
+![](Screeshots/pctest.jpg)
 ## Development
 Used WordPress 4.9.8-en_GB for developing the site on windows 10
 
