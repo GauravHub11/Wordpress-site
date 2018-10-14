@@ -1,5 +1,5 @@
 # Wordpress-site
-KEC IT CLUB [website](itedukec.ga) is made using WordPress(for Practice)
+KEC IT CLUB [website](http://itedukec.ga/) is made using WordPress(for Practice)
 ## Screenshot
 ![](Screeshots/home.jpg)
 
